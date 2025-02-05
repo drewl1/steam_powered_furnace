@@ -1,0 +1,10 @@
+{
+    "name": "steam_powered_furnace",
+    "version": "0.1.13",
+    "title": "Steam Powered Furnace",
+    "author": "salad_hat",
+    "contact": "@drewl1 on GitHub",
+    "description": "Adds a furnace that runs on steam instead of coal.",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.0"]
+}
